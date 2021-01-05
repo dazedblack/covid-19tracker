@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/style.css"],"names":[],"mappings":"AAAA,KACI,eACJ,CAEA,cACI,eACJ,CAEA,QACI,cACJ","file":"main.58af96cc.chunk.css","sourcesContent":[".row{\r\n    margin-top: 50px;\r\n}\r\n\r\n.container h1 {\r\n    margin-top: 20px;\r\n}\r\n\r\n.values {\r\n    font-size: 70px;\r\n}"]}
