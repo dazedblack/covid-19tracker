@@ -16,7 +16,7 @@ const deathData = props.deathData
         <div>
              <Pie
                 data={{
-                    labels: ["Total Recovered", "Total Deaths", "Total Sick"],
+                    labels: ["Total Recovered", "Total Deaths", "Total Infected"],
                     datasets: [{
                         data: [recoveredData,deathData,  sickPeople],
                         backgroundColor: [

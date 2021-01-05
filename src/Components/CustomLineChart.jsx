@@ -4,7 +4,7 @@ import { Line } from "react-chartjs-2"
 function CustomLineChart(props) {
 
     const data = {
-        labels: ['Day1', 'Day2', 'Day3', 'Day4', 'Day5', 'Day6', 'Day7'],
+        labels: ['Day1', 'Day2', 'Day3', 'Day4', 'Day5', 'Yesterday', 'Today'],
         datasets: [
             {
                 label: props.head,

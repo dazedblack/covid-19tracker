@@ -30,13 +30,13 @@ export default function App() {
     const alltime = "All Time's"
     const today = "Today's"
 
-    const recoverd = "Last 7 Day Recovered"
+    const recoverd = "Last 7 Day Recovered People"
     const recoverdCol = "rgb(140, 220, 116)"
 
     const death = "Last 7 Day Death"
     const deathCol = "rgb(233, 57, 57)"
 
-    const active = "Last 7 Day Active"
+    const active = "Last 7 Day Active Coronavirus People"
     const activeCol = "rgb(233, 233, 57)"
 
     /*  const getCoronaReportByDate = () => {
